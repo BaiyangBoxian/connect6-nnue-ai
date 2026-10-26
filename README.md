@@ -1,5 +1,6 @@
 # connect6-nnue-ai
 Neural network + alpha-beta search board game Al, trained with self-play
+
 BetaSix: 面向十九路六子棋的多任务 NNUE 高效评估与 α-β 搜索
 Copyright (C) 2026  白杨博贤
 
