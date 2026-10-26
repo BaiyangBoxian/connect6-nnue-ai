@@ -2,6 +2,7 @@
 Neural network + alpha-beta search board game Al, trained with self-play
 
 BetaSix: 面向十九路六子棋的多任务 NNUE 高效评估与 α-β 搜索
+BetaSix Multi-task NNUE Evaluation and Efficient Alpha-Beta Search for 19×19 Connect6
 Copyright (C) 2026  白杨博贤
 
 To the best of our knowledge, BetaSix is the first open-source engine to apply NNUE (Efficiently Updatable Neural Network) architecture to Connect6.
