@@ -116,4 +116,5 @@ cd connect6_engine
 本仓库全部源码文件（.cpp / .h / .inc / .py / .sh）文件头均带此版权注释。如在研究或工程中使用本项目，请引用随附技术论文：
 
 > 白杨博贤. BetaSix：面向十九路六子棋的多任务 NNUE 高效评估与 α-β 搜索. 2026.
+
 > Boxian Baiyang. BetaSix：Multi-task NNUE Evaluation and Efficient Alpha-Beta Search for 19×19 Connect6. 2026.
