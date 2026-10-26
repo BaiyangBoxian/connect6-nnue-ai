@@ -117,4 +117,4 @@ cd connect6_engine
 
 > 白杨博贤. BetaSix：面向十九路六子棋的多任务 NNUE 高效评估与 α-β 搜索. 2026.
 
-> Boxian Baiyang. BetaSix：Multi-task NNUE Evaluation and Efficient Alpha-Beta Search for 19×19 Connect6. 2026.
+> Boxian Baiyang. BetaSix Multi-task NNUE Evaluation and Efficient Alpha-Beta Search for 19×19 Connect6. 2026.
