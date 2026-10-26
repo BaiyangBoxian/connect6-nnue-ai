@@ -21,3 +21,4 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
+中国主站：Gitee(https://gitee.com/BaiyangBoxian/connect6-nnue-ai)
