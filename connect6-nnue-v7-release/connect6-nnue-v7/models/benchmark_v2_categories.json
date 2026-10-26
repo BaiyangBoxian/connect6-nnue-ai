@@ -1,0 +1,8 @@
+{
+  "name": "benchmark_v2",
+  "date": "2026-10-20",
+  "total": 100,
+  "deep_tactics": 14, "complex_mid": 19, "trap": 18, "endgame_mate": 20, "counter_attack": 19,
+  "note": "after f[12]/f[13] encoding fix (gen=OPP(to[]), engine was SELF(ts[]))",
+  "weights": "weights_v7.npz (v2=90, encoding-fixed, 1.1M samples)"
+}
