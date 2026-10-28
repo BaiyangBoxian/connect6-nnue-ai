@@ -2,7 +2,7 @@
 
 **Copyright (c) 2026 白杨博贤**
 
-据我们所知，这是首个将NNUE架构应用于六子棋的开源实现
+据我们所知，BetaSix是首个完整开源（含训练权重）的NNUE六子棋对弈引擎。注：hzyhhzy的KataGomo项目在其ConnectSix_NNUE_VCF分支中曾实现NNUE评估代码（未发布权重），用于VCF必胜搜索。
 
 ## 1. 项目简介
 
