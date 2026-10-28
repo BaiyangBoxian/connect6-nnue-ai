@@ -7,7 +7,7 @@ BetaSix Multi-task NNUE Evaluation and Efficient Alpha-Beta Search for 19×19 Co
 
 Copyright (C) 2026  白杨博贤
 
-To the best of our knowledge, BetaSix is the first open-source engine to apply NNUE (Efficiently Updatable Neural Network) architecture to Connect6.
+As far as we know, BetaSix is the first fully open-source (including training weights) NNUE six-in-a-row game-playing engine. Note: The KataGomo project by hzyhhzy implemented NNUE evaluation code in its ConnectSix_NNUE_VCF branch (without releasing weights) for VCF winning search.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
